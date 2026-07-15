@@ -10,8 +10,8 @@ A collection of classic, code-based arcade games built using Python and **Pygame
 
 Currently, this repository features two main games. You can run each game by navigating to its folder:
 
-*   **🏓 Pong:** The timeless, classic two-player table tennis game. 
-*   **🚀 Space Dodge:** An action-packed survival game where you dodge incoming obstacles in deep space.
+* **🏓 Pong:** The timeless, classic two-player table tennis game.
+* **🚀 Space Dodge:** An action-packed survival game where you dodge incoming obstacles in deep space.
 
 ---
 
@@ -19,15 +19,15 @@ Currently, this repository features two main games. You can run each game by nav
 
 > **What is Pygame?**
 > [Pygame](https://www.pygame.org/docs/) is a free and open-source cross-platform library designed for the development of multimedia applications like video games using Python. It utilizes the *Simple DirectMedia Layer* (SDL) library to make game development intuitive, managing graphics, sound, and inputs smoothly.
-> For more information visit their official documentation page: https://www.pygame.org/docs/
+> For more information, visit their official documentation page: https://www.pygame.org/docs/
 
 ---
 
 ## 🚀 Getting Started
 
-To run these games locally, follow these simple steps:
+To run these games locally, follow these simple installation and execution steps:
 
 ### 1. Prerequisites
-Make sure you have Python installed. Then, install **Pygame** via terminal/command prompt:
+Make sure you have Python installed. Then, install **Pygame** via your terminal or command prompt:
 ```bash
 pip install pygame
