@@ -12,7 +12,7 @@ Currently, this repository features two main games. You can run each game by nav
 
 * **🏓 Pong:** The timeless, classic two-player table tennis game.
 * **🚀 Space Dodge:** An action-packed survival game where you dodge incoming obstacles in deep space.
-
+* **🐍 Snake:** A puzzle-like game where you have to navigate the snake through obstacles to feed it, all while trying to avoid the enclosing walls.(Yes, there are enclosing walls.)
 ---
 
 ## 🛠️ Built With Pygame
