@@ -1,4 +1,4 @@
-#Needed modules for the project
+
 import pygame
 import time
 import random
